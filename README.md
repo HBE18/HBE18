@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on API development and Monitoring
 - 🌱 I’m currently learning : Back-end Development via Java Spring
-- 🔍 I'm curretnly polishing my skills on Deep Learning and Data Processing  
+- 🔍 I'm currenty polishing my skills on Deep Learning and Data Processing  
 - 🖥 I'm currently looking for a _Job_ to deepen my experience and learn on spot.
 
 - 📫 How to reach me:  
