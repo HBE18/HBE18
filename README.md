@@ -1,9 +1,9 @@
 ### Hi, I'm Hasan Berkan. 
 
-#### I'm a Computer Engineer / Jr. Developer graduated from Ankara Yıldırım Beyazıt University.  
+#### I'm a Computer Engineer / Jr. Developer recently graduated from Ankara Yıldırım Beyazıt University.  
 
-- 🔭 I’m currently working on API development and Monitoring
-- 🌱 I’m currently learning : Back-end Development via Java Spring
+- 🔭 I’m currently working on API development
+- 🌱 I’m currently learning : Back-end Development via Nest
 - 🔍 I'm currenty polishing my skills on Deep Learning and Data Processing  
 - 🖥 I'm currently looking for a _Job_ to deepen my experience and learn on spot.
 
