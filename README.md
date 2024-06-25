@@ -1,11 +1,11 @@
 ### Hi, I'm Hasan Berkan. 
 
-#### I'm a Computer Engineer / Jr. Developer recently graduated from Ankara Yıldırım Beyazıt University.  
+#### I'm a Computer Engineer / Back-end Developer with 2 years of experience building building, maintaining and delivering end to end solutions to customers using various technologies according to needs of customers.  
 
 - 🔭 I’m currently working on API development
-- 🌱 I’m currently learning : Back-end Development via Nest
+- 🌱 I’m currently learning : Back-end Development via Next.Js
 - 🔍 I'm currenty polishing my skills on Deep Learning and Data Processing  
-- 🖥 I'm currently looking for a _Job_ to deepen my experience and learn on spot.
+- 🖥 I'm always open for a _Job Opportunity_ to gain experience, deepen my knowledge and broaden my horizon.
 
 - 📫 How to reach me:  
 h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu/
@@ -17,7 +17,11 @@ h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Frameworks and Tools  
 
@@ -33,6 +37,7 @@ h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## ML / DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -43,8 +48,8 @@ h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## In Progress :  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
