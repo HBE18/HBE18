@@ -1,11 +1,6 @@
 ### Hi, I'm Hasan Berkan. 
 
-#### I'm a Computer Engineer / Back-end Developer with 2 years of experience building building, maintaining and delivering end to end solutions to customers using various technologies according to needs of customers.  
-
-- 🔭 I’m currently working on API development
-- 🌱 I’m currently learning : Back-end Development via Next.Js
-- 🔍 I'm currenty polishing my skills on Deep Learning and Data Processing  
-- 🖥 I'm always open for a _Job Opportunity_ to gain experience, deepen my knowledge and broaden my horizon.
+#### I'm a Computer Engineer / Back-end Developer with 3 years of experience building, maintaining and delivering end to end solutions to customers using various technologies according to needs of customers.  
 
 - 📫 How to reach me:  
 h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu/
@@ -49,8 +44,6 @@ h.berkan.eroglu@hotmail.com `||` https://www.linkedin.com/in/hasan-berkan-eroglu
 
 ## In Progress :  
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
